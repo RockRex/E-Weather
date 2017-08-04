@@ -1,0 +1,10 @@
+D:\WorkSpaces\C#program\E-Weather\E-Weather\bin\Debug\E-Weather.exe.config
+D:\WorkSpaces\C#program\E-Weather\E-Weather\bin\Debug\E-Weather.exe
+D:\WorkSpaces\C#program\E-Weather\E-Weather\bin\Debug\E-Weather.pdb
+D:\WorkSpaces\C#program\E-Weather\E-Weather\obj\Debug\E_Weather.Properties.Resources.resources
+D:\WorkSpaces\C#program\E-Weather\E-Weather\obj\Debug\E-Weather.csproj.GenerateResource.Cache
+D:\WorkSpaces\C#program\E-Weather\E-Weather\obj\Debug\E-Weather.exe
+D:\WorkSpaces\C#program\E-Weather\E-Weather\obj\Debug\E-Weather.pdb
+D:\WorkSpaces\C#program\E-Weather\E-Weather\obj\Debug\E_Weather.Frm_Main.resources
+D:\WorkSpaces\C#program\E-Weather\E-Weather\obj\Debug\E_Weather.Frm_input.resources
+D:\WorkSpaces\C#program\E-Weather\E-Weather\obj\Debug\E-Weather.csprojResolveAssemblyReference.cache
